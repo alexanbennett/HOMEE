@@ -1,0 +1,7 @@
+requests
+beautifulsoup4
+lxml
+numpy
+pandas
+openai
+streamlit
